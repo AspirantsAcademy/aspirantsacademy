@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for Aspirants Academy	</title>
-	<atom:link href="http://aspirantsacademy.co.in/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://aspirantsacademy.co.in</link>
+	<atom:link href="https://aspirantsacademy.co.in/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aspirantsacademy.co.in</link>
 	<description>Study Learn Enjoy</description>
 	<lastBuildDate>Sat, 04 Mar 2023 07:09:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 </channel>
 </rss>

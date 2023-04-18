@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Aspirants Academy</title>
-	<atom:link href="http://aspirantsacademy.co.in/feed/" rel="self" type="application/rss+xml" />
-	<link>http://aspirantsacademy.co.in</link>
+	<atom:link href="https://aspirantsacademy.co.in/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aspirantsacademy.co.in</link>
 	<description>Study Learn Enjoy</description>
 	<lastBuildDate>Sat, 04 Mar 2023 07:09:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>http://aspirantsacademy.co.in/wp-content/uploads/2022/04/logo_achievers_academy.png</url>
+	<url>https://aspirantsacademy.co.in/wp-content/uploads/2022/04/logo_achievers_academy.png</url>
 	<title>Aspirants Academy</title>
-	<link>http://aspirantsacademy.co.in</link>
+	<link>https://aspirantsacademy.co.in</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
