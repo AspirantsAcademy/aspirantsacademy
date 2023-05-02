@@ -79,7 +79,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/aspirants\/wp-admin\/admin-ajax.php"}};
 </script>
 <script src="https://aspirantsacademy.co.in/wp-includes/js/wp-util.min.js?ver=6.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"65a24b63f6"};
+var userProfileL10n = {"user_id":"0","nonce":"ed86e7fe5f"};
 </script>
 <script src="https://aspirantsacademy.co.in/wp-admin/js/user-profile.min.js?ver=6.2" id="user-profile-js"></script>
 			<script>
